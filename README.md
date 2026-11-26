@@ -3,7 +3,7 @@
 A fashion shop with one immersive feature: AI try-on.
 Built by Flexbox Pod at Webbo3 Academy, Frontend Development.
 
-Deployed by: Peaceful Peace,Webbo3 Frontend Development
+Deployed by: Peaceful Peace
 
 Live site:https://evo-code-dev.github.io/dripdash/
 
